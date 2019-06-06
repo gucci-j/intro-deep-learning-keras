@@ -15,7 +15,7 @@
 |[第二弾：3層ニューラルネットワーク & 手書き数字認識編](https://gucci-j.github.io/DL-Intro-2/)|`chapter3`|
 |[第三弾：ニューラルネットワークの学習編](https://gucci-j.github.io/DL-Intro-3/)|`chapter4&5`|
 |[第四弾：学習テクニック編](https://gucci-j.github.io/DL-Intro-4/)|`chapter6`|
-|[第五弾：畳み込みニューラルネットワーク編](https://gucci-j.github.io/DL-Intro-4/)|`chapter7`|
+|[第五弾：畳み込みニューラルネットワーク編](https://gucci-j.github.io/DL-Intro-5/)|`chapter7`|
 
 ## ライセンス
 [MIT LICENSE](./LICENSE)
