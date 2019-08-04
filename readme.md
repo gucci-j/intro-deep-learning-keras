@@ -16,6 +16,7 @@
 |[第三弾：ニューラルネットワークの学習編](https://gucci-j.github.io/DL-Intro-3/)|`chapter4&5`|
 |[第四弾：学習テクニック編](https://gucci-j.github.io/DL-Intro-4/)|`chapter6`|
 |[第五弾：畳み込みニューラルネットワーク編](https://gucci-j.github.io/DL-Intro-5/)|`chapter7`|
+|[番外編：実装とともに学ぶ交差検証のお話](https://gucci-j.github.io/cv-intro/)|`cross-validation`|
 
 ## ライセンス
 [MIT LICENSE](./LICENSE)
