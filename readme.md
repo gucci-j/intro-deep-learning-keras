@@ -5,7 +5,7 @@
 ソースコードの解説等については，ブログの対応記事をご覧ください
 
 ## ディレクトリ対応
-各フォルダは，ゼロから作るDeep Learningの章立てに対応した割り振りとなっています．
+各フォルダは，番外編を除き，ゼロから作るDeep Learningの章立てに対応した割り振りとなっています．
 
 ブログ記事との対応は以下のようになっています．
 
@@ -17,6 +17,7 @@
 |[第四弾：学習テクニック編](https://gucci-j.github.io/DL-Intro-4/)|`chapter6`|
 |[第五弾：畳み込みニューラルネットワーク編](https://gucci-j.github.io/DL-Intro-5/)|`chapter7`|
 |[番外編：実装とともに学ぶ交差検証のお話](https://gucci-j.github.io/cv-intro/)|`cross-validation`|
+|[番外編：実装とともに学ぶハイパーパラメータチューニングのお話](https://gucci-j.github.io/tuning-intro/)|`keras-tuner`|
 
 ## ライセンス
 [MIT LICENSE](./LICENSE)
